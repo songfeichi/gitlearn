@@ -23,18 +23,17 @@ var todos = [
     },
     {
         id: nextId(),
-        name: 'Learn Python',
+        name: 'Learn Pythonaaaa',
         description: 'Learn Python, WSGI, asyncio and NumPy'
     },
     {
         id: nextId(),
         name: 'Learn Java',
-        description: 'Learn Java, Servlet, Maven and Spring'
+        description: 'Learn Java, Servlet, Mavedasfafsadan and Spring'
     }
 ];
 
-module.exports={
-	gettodos:()=>{
+module.export
 		return todos;
 	},
 	gettodo:(id)=>{
