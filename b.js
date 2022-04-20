@@ -4,4 +4,4 @@ var fm=require('./f.js')
 console.log(fm)
 console.log(fm.f1.toString())
 
-console.log(objaaaaaaaaaaaaa)
+console.log(objaaaaaaaaaaaaa)adsadasd
