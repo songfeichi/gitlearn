@@ -1,6 +1,5 @@
 
 
-todos.js
 
 # Logs
 logs
@@ -53,7 +52,7 @@ node_modules
 jspm_packages
 package-lock.json
 a.txt
-
+todos.js
 # Optional npm cache directory
 .npm
 
